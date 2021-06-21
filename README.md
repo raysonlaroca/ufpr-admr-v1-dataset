@@ -1,11 +1,13 @@
-# UFPR-ADMR Dataset ([Website](https://web.inf.ufpr.br/vri/databases/ufpr-admr/))
+# UFPR-ADMR-v1 Dataset ([Website](https://web.inf.ufpr.br/vri/databases/ufpr-admr/))
 
 This dataset, called UFPR-ADMR dataset, contains 2,000 dial meter images obtained on-site by employees of the Energy Company of Paraná (Copel), which serves more than 4 million consuming units in the Brazilian state of Paraná. The images were acquired with many different cameras and are available in the JPG format with 320×640 or 640×320 pixels (depending on the camera orientation). More details are available in our IJCNN paper [[PDF]](./pdfs/salomon2020deep.pdf).
 
 The dataset is split into three sets: training (1200 images), validation (400 images) and testing (400 images). Every image has the following annotations available in a .txt file: the counter’s corners (x1, y1), (x2, y2), (x3, y3), (x4, y4). The corners can be used to rectify the counter patch and represent, respectively, the top-left, top-right, bottom-right and bottom-left corners. For each dial, the current position (x, y, w, h) and the corresponding reading (pointed values and final reading). All counters of the dataset (regardless of meter type) have 4 or 5 dials; thus, 9,097 dials were manually annotated. The full details and statistics regarding the dataset are available in our [paper](./pdfs/salomon2020deep.pdf).
 
 Here are some examples from the dataset:  
-<img src="./media/samples.png" width="622" height="521" />
+<p align="center">
+    <img src="./media/samples.png" width="585" height="490"/>
+</p>
 
 ## How to obtain the Dataset
 
