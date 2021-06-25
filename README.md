@@ -1,4 +1,5 @@
 # UFPR-ADMR-v1 Dataset ([Website](https://web.inf.ufpr.br/vri/databases/ufpr-admr/))
+*Gabriel Salomon, Rayson Laroca, David Menotti*
 
 This dataset, called UFPR-ADMR dataset, contains 2,000 dial meter images obtained on-site by employees of the Energy Company of Paraná (Copel), which serves more than 4 million consuming units in the Brazilian state of Paraná. The images were acquired with many different cameras and are available in the JPG format with 320×640 or 640×320 pixels (depending on the camera orientation). More details are available in our IJCNN paper [[PDF]](./pdfs/salomon2020deep.pdf).
 
@@ -6,7 +7,7 @@ The dataset is split into three sets: training (1200 images), validation (400 im
 
 Here are some examples from the dataset:  
 <p align="center">
-    <img src="./media/samples.png" width="585" height="490"/>
+    <img src="./media/samples.png"/>
 </p>
 
 ## How to obtain the Dataset
@@ -19,7 +20,7 @@ To be able to download the dataset, please read carefully [**this license agreem
 
 If you use the UFPR-ADMR dataset in your research, please cite our paper:
 
-* G. Salomon, R. Laroca, D. Menotti, “Deep Learning for Image-based Automatic Dial Meter Reading: Dataset and Baselines” in International Joint Conference on Neural Networks (IJCNN), July 2020, pp. 1–8. [[IEEE Xplore]](https://www.doi.org/10.1109/IJCNN48605.2020.9207318) [[arXiv]](https://arxiv.org/abs/2005.03106)
+* G. Salomon, R. Laroca, D. Menotti, “*Deep Learning for Image-based Automatic Dial Meter Reading: Dataset and Baselines*” in International Joint Conference on Neural Networks (IJCNN), July 2020, pp. 1–8. [[IEEE Xplore]](https://www.doi.org/10.1109/IJCNN48605.2020.9207318) [[arXiv]](https://arxiv.org/abs/2005.03106)
 
 ```
 @INPROCEEDINGS{salomon2020deep, 
