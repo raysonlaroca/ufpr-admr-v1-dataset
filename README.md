@@ -10,7 +10,7 @@ Here are some examples from the dataset:
     <img src="./media/samples.png"/>
 </p>
 
-## How to obtain the Dataset
+## How to obtain the dataset
 
 The UFPR-ADMR-v1 dataset is the property of the Energy Company of Paraná (Copel) and is released **only** to academic researchers from educational or research institutes for **non-commercial purposes**. 
 
