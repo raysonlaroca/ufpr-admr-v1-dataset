@@ -36,6 +36,10 @@ If you use the UFPR-ADMR-v1 dataset in your research, please cite our paper:
 }
 ```
 
+## Related publications
+
+A list of all papers on AMR published by us can be seen [here](https://scholar.google.com/scholar?hl=pt-BR&as_sdt=0%2C5&as_ylo=2019&q=allintitle%3A+meter+reading+author%3ARayson+author%3ALaroca&btnG=).
+
 ## Contact
 
 Please contact Professor David Menotti ([menotti@inf.ufpr.br](mailto:menotti@inf.ufpr.br)) with questions or comments.
