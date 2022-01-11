@@ -6,9 +6,7 @@ This dataset, called UFPR-ADMR-v1 dataset, contains 2,000 dial meter images obta
 The dataset is split into three sets: training (1200 images), validation (400 images) and testing (400 images). Every image has the following annotations available in a .txt file: the counter’s corners (x1, y1), (x2, y2), (x3, y3), (x4, y4). The corners can be used to rectify the counter patch and represent, respectively, the top-left, top-right, bottom-right and bottom-left corners. For each dial, the current position (x, y, w, h) and the corresponding reading (pointed values and final reading). All counters of the dataset (regardless of meter type) have 4 or 5 dials; thus, 9,097 dials were manually annotated. The full details and statistics regarding the dataset are available in our [paper](./pdfs/salomon2020deep.pdf).
 
 Here are some examples from the dataset:  
-<p align="center">
-    <img src="./media/samples.png"/>
-</p>
+<img src="./media/samples.png" width="520" height="507"/>
 
 ## How to obtain the dataset
 
@@ -35,6 +33,10 @@ If you use the UFPR-ADMR-v1 dataset in your research, please cite our paper:
   doi={10.1109/IJCNN48605.2020.9207318},
 }
 ```
+
+You may also be interested in the **extended** version of this paper, where we proposed novel approaches for ADMR and introduced the [UFPR-ADMR-v2](https://github.com/guesalomon/ufpr-admr-v2-dataset) dataset:
+
+* G. Salomon, R. Laroca, D. Menotti, “Image-based Automatic Dial Meter Reading in Unconstrained Scenarios,” arXiv preprint, arXiv:2201.02850, pp. 1-10, 2022. [[arXiv]](https://arxiv.org/abs/2201.02850)
 
 ## Related publications
 
