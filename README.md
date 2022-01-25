@@ -38,6 +38,8 @@ You may also be interested in the **extended** version of this paper, where we p
 
 * G. Salomon, R. Laroca, D. Menotti, “Image-based Automatic Dial Meter Reading in Unconstrained Scenarios,” arXiv preprint, arXiv:2201.02850, pp. 1-10, 2022. [[arXiv]](https://arxiv.org/abs/2201.02850)
 
+Additionally, consider showing your support by starring this repository.
+
 ## Related publications
 
 A list of all papers on AMR published by us can be seen [here](https://scholar.google.com/scholar?hl=pt-BR&as_sdt=0%2C5&as_ylo=2019&q=allintitle%3A+meter+reading+author%3A%22David+Menotti%22&btnG=&oq=allintitle%3A+meter+reading+author%3A%22).
