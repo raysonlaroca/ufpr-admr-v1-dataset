@@ -42,7 +42,7 @@ Additionally, consider showing your support by starring this repository.
 
 ## Related publications
 
-A list of all papers on AMR published by us can be seen [here](https://scholar.google.com/scholar?hl=pt-BR&as_sdt=0%2C5&as_ylo=2019&q=allintitle%3A+meter+reading+author%3A%22David+Menotti%22&btnG=&oq=allintitle%3A+meter+reading+author%3A%22).
+A list of all our papers on AMR can be seen [here](https://scholar.google.com/scholar?hl=pt-BR&as_sdt=0%2C5&as_ylo=2019&q=allintitle%3A+meter+reading+author%3A%22David+Menotti%22&btnG=&oq=allintitle%3A+meter+reading+author%3A%22).
 
 ## Contact
 
