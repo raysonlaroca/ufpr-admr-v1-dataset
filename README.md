@@ -38,7 +38,7 @@ You may also be interested in the **extended** version of this paper, where we p
 
 * G. Salomon, R. Laroca, D. Menotti, “Image-based Automatic Dial Meter Reading in Unconstrained Scenarios,” arXiv preprint, arXiv:2201.02850, pp. 1-10, 2022. [[arXiv]](https://arxiv.org/abs/2201.02850)
 
-Additionally, consider showing your support by starring this repository.
+Additionally, consider showing your support by starring (:star:) this repository.
 
 ## Related publications
 
