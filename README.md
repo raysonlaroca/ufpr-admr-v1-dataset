@@ -14,13 +14,13 @@ The UFPR-ADMR-v1 dataset is the property of the Energy Company of Paraná (Copel
 
 To be able to download the dataset, please read carefully [**this license agreement**](./pdfs/license-agreement.pdf), fill it out and send it back to Professor David Menotti ([menotti@inf.ufpr.br](mailto:menotti@inf.ufpr.br)). The license agreement MUST be reviewed and signed by the individual or entity authorized to make legal commitments on behalf of the institution or corporation (e.g., Department/Administrative Head, or similar). **We cannot accept licenses signed by students or faculty members.**
 
-In general, you will receive a download link within 1-3 business days. Failure to follow the instructions may result in no response.
+In general, you will receive a download link within 1-5 business days. Failure to follow the instructions may result in no response.
 
 ## Citation
 
 If you use the UFPR-ADMR-v1 dataset in your research, please cite our paper:
 
-* G. Salomon, R. Laroca, D. Menotti, “*Deep Learning for Image-based Automatic Dial Meter Reading: Dataset and Baselines*” in International Joint Conference on Neural Networks (IJCNN), July 2020, pp. 1–8. [[IEEE Xplore]](https://www.doi.org/10.1109/IJCNN48605.2020.9207318) [[arXiv]](https://arxiv.org/abs/2005.03106)
+* G. Salomon, R. Laroca, D. Menotti, “Deep Learning for Image-based Automatic Dial Meter Reading: Dataset and Baselines” in *International Joint Conference on Neural Networks (IJCNN)*, July 2020, pp. 1–8. [[IEEE Xplore]](https://www.doi.org/10.1109/IJCNN48605.2020.9207318) [[arXiv]](https://arxiv.org/abs/2005.03106)
 
 ```
 @INPROCEEDINGS{salomon2020deep, 
@@ -38,7 +38,7 @@ If you use the UFPR-ADMR-v1 dataset in your research, please cite our paper:
 
 You may also be interested in the **extended** version of this paper, where we proposed novel approaches for ADMR and introduced the [UFPR-ADMR-v2](https://github.com/guesalomon/ufpr-admr-v2-dataset) dataset:
 
-* G. Salomon, R. Laroca, D. Menotti, “Image-based Automatic Dial Meter Reading in Unconstrained Scenarios,” arXiv preprint, arXiv:2201.02850, pp. 1-10, 2022. [[arXiv]](https://arxiv.org/abs/2201.02850)
+* G. Salomon, R. Laroca, D. Menotti, “Image-based Automatic Dial Meter Reading in Unconstrained Scenarios,” *Measurement*, vol. 204, p. 112025, 2022. [[arXiv]](https://arxiv.org/abs/2201.02850) [[Science Direct]](https://doi.org/10.1016/j.measurement.2022.112025)
 
 Additionally, consider showing your support by starring (:star:) this repository.
 
