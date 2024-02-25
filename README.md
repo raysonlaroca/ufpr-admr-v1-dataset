@@ -20,7 +20,7 @@ In general, you will receive a download link within 1-5 business days. Failure t
 
 If you use the UFPR-ADMR-v1 dataset in your research, please cite our paper:
 
-* G. Salomon, R. Laroca, D. Menotti, “Deep Learning for Image-based Automatic Dial Meter Reading: Dataset and Baselines” in *International Joint Conference on Neural Networks (IJCNN)*, July 2020, pp. 1–8. [[IEEE Xplore]](https://www.doi.org/10.1109/IJCNN48605.2020.9207318) [[arXiv]](https://arxiv.org/abs/2005.03106)
+* G. Salomon, R. Laroca, D. Menotti, “Deep Learning for Image-based Automatic Dial Meter Reading: Dataset and Baselines” in *International Joint Conference on Neural Networks (IJCNN)*, pp. 1–8, July 2020. [[IEEE Xplore]](https://www.doi.org/10.1109/IJCNN48605.2020.9207318) [[arXiv]](https://arxiv.org/abs/2005.03106)
 
 ```
 @INPROCEEDINGS{salomon2020deep, 
